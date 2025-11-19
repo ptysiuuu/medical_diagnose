@@ -1,0 +1,9 @@
+.darkveil-gradient {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    background: linear-gradient(180deg, #000814 0%, #001540 40%, #002b6f 100%);
+    transition: background 300ms ease;
+}

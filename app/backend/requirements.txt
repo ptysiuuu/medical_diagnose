@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+torch
+transformers
+sentence-transformers
+pandas
+numpy
+faiss-cpu
+kagglehub
